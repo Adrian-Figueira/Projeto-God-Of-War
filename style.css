@@ -1,0 +1,17 @@
+#logo-titulo{
+    background-color: #00ffff;
+    width: 500px;
+}
+#sinopse{
+    background-color: blueviolet;
+}
+#carrossel{
+    background-color: red;
+    padding: 60px;
+    margin: 50px;
+}
+.imagens-carrossel{
+    width: 500px;
+    margin: 5px;
+
+}

@@ -1,17 +1,25 @@
-#logo-titulo{
+#logo-titulo {
     background-color: #00ffff;
     width: 500px;
 }
-#sinopse{
+
+#sinopse {
     background-color: blueviolet;
 }
-#carrossel{
+
+#carrossel {
     background-color: red;
     padding: 60px;
     margin: 50px;
 }
-.imagens-carrossel{
+
+.imagens-carrossel {
     width: 500px;
     margin: 5px;
 
+}
+
+#botao-de-compra {
+    border: solid black;
+    width: 200px;
 }
